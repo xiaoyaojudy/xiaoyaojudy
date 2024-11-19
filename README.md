@@ -14,7 +14,7 @@ This repository is containing portfolio of data science and data analyst project
 * Project 4
 ---
 ### Challenge 5
-* [[Code](https://github.com/xiaoyaojudy/Challenge_5.git)]
+* [[Code](pymaceuticals_starter - Xiao_Yao.ipynb)]
 * Goal:
 * Description:
 * Skill:
