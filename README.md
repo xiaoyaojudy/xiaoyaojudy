@@ -4,7 +4,7 @@ This repository is containing portfolio of data science and data analyst project
 
 --- 
 ## Table of Contents
-* [Challenge 5] 
+* [Challenge 5](#challenge-5)
 * Project 1
 * Project 2
 * Challenge 14
