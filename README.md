@@ -1,6 +1,7 @@
 # Data Analytics Portfolio - Yao(Judy) XIAO
 
-This repository is containing portfolio of data science and data analyst projects/assignments completed by me (or with team) to showcase the practical knowledge and skills that I gained from the Bootcamp that I participated. Presented in the form of Jupyter Notebooks, Javascript, HTML, etc. Keeping learning and practicing...
+This repository showcases a collection of data science and data analysis projects and assignments that I have completed, either individually or as part of a team. These projects highlight the practical skills and knowledge I gained during my participation in a comprehensive Data Analytics Bootcamp. The portfolio includes work presented in various formats such as Jupyter Notebooks, JavaScript, HTML, and more.
+My goal is to continually learn, practice, and refine my abilities in data analysis, machine learning, and programming. Through this repository, I aim to demonstrate my proficiency in solving real-world problems, utilizing a wide range of tools and techniques in data science.
 
 --- 
 ## Table of Contents
@@ -22,7 +23,7 @@ This repository is containing portfolio of data science and data analyst project
 ### Fitbit Tracker Dataset Analysis
 * Code: [[Click Here](https://github.com/Enimien/project_1_healthcare.git))]
 * Goal: Analyze FitBit fitness tracker data to gain insights into how consumers are using the FitBit app and give recommendations to the public on how to live a better and healthier life based on the results that we found using the data.
-* Description: Data is publicly available on Kaggle 33 FitBit users consented to the submission of personal tracker data. Data collected includes physical activity recorded in hours, heart rate, sleep monitoring, daily activity, steps and calories.
+* Description: Data is publicly available on Kaggle. 33 FitBit users consented to the submission of personal tracker data. Data collected includes physical activity recorded in hours, heart rate, sleep monitoring, daily activity, steps and calories.
 * Skills: data cleaning, data analysis, data visualization
 * Technology: Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy
   
@@ -49,14 +50,12 @@ This repository is containing portfolio of data science and data analyst project
 * Code: [[Click Here](https://github.com/xiaoyaojudy/credit-risk-classification.git)]
 * Goal: To use machine learning to train and evaluate a model based on loan risk; to use a dataset of historical lending activity from a peer-to-peer lending services company to build a model that can identify the creditworthiness of borrowers.
 * Technology: Python, Pandas, Numpy, Scikit-learn
-* Results:
   
 ### Handwriting Sentiment Classifier
 * Code: [[Click Here](https://github.com/Ernawaty2024/handwriting_sentiment_classifier/blob/main/ModelData.ipynb)]
 * Description: [README](https://github.com/Ernawaty2024/handwriting_sentiment_classifier/blob/main/README.md)
 * Skills: machine learning
 * Technology: Python, Scikit-learn, HTML, Flask, CSS
-* Results:
 
 ---
 ## References
